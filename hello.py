@@ -2,5 +2,5 @@
 
 
 def hello():
-    """Hello."""
+    """Hello. Hello"""
     print('hello')
